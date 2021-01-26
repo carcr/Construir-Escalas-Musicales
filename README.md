@@ -28,7 +28,7 @@ Natural
       T   s   T   T   s   T   T
 ```
 
-La armónica y melódica son iguales a la escala menor natural pero añadiendo semitonos en la subtónica y submediante.
+La armónica y melódica son iguales a la escala menor natural pero añadiendo semitonos en la subtónica(1T para la tónica) o sensible(1s para la tónica) y submediante.
 
 Armónica
 ```
@@ -124,7 +124,7 @@ Como es escala mayor este paso no es necesario
 C# Mayor -> C# D# E# F# G# A# B# C#
 ```
 
-## Eb menor
+## Eb menor natural
  
 ### Paso 1
   E -> 4 
@@ -146,4 +146,100 @@ Como es escala menor natural este paso no es necesario
 
 ```
 Eb menor -> Eb F Gb Ab Bb Cb Db Eb
+```
+
+## Fb menor natural
+ 
+### Paso 1
+  F -> -1 
+### Paso 2
+  Fb -> -1 - 7 = -8 bemoles
+### Paso 3
+  Fb menor -> -8 - 3 = -11 -> 11(b)
+### Paso 4
+Vamos colocando los bemoles en orden
+  * B -> F G A Bb C D E F
+  * E -> F G A Bb C D Eb F
+  * A -> F G Ab Bb C D Eb F
+  * D -> F G Ab Bb C Db Eb F
+  * G -> F Gb Ab Bb C Db Eb F
+  * C -> F Gb Ab Bb Cb Db Eb F
+  * F -> Fb Gb Ab Bb Cb Db Eb Fb
+  
+Llevamos 7 bemoles pero nos quedan 4, asi que hacemos otra vuelta
+  * B -> Fb Gb Ab Bbb Cb Db Eb Fb
+  * E -> Fb Gb Ab Bbb Cb Db Ebb Fb
+  * A -> Fb Gb Abb Bbb Cb Db Ebb Fb
+  * D -> Fb Gb Abb Bbb Cb Dbb Ebb Fb
+### Paso 5
+Como es escala menor natural este paso no es necesario
+
+```
+Fb menor -> Fb Gb Abb Bbb Cb Dbb Ebb Fb
+```
+
+## B# Mayor
+ 
+### Paso 1
+  B -> 5 
+### Paso 2
+  B# -> 5 + 7 =  12 sostenidos
+### Paso 3
+  B# mayor -> se queda como está -> 12(#)
+### Paso 4
+Vamos colocando los sostenidos en orden
+  * F -> B C D E F# G A B
+  * C -> B C# D E F# G A B
+  * G -> B C# D E F# G# A B
+  * D -> B C# D# E F# G# A B
+  * A -> B C# D# E F# G# A# B
+  * E -> B C# D# E# F# G# A# B
+  * B -> B# C# D# E# F# G# A# B#
+  
+Llevamos 7 bemoles pero nos quedan 5, asi que hacemos otra vuelta
+  * F -> B# C# D# E# F## G# A# B#
+  * C -> B# C## D# E# F## G# A# B#
+  * G -> B# C## D# E# F## G## A# B#
+  * D -> B# C## D## E# F## G## A# B#
+  * A -> B# C## D## E# F## G## A## B#
+  
+Cambiamos los ## por x -> B# Cx Dx E# Fx Gx Ax B#
+### Paso 5
+Como es escala menor natural este paso no es necesario
+
+```
+B# major -> B# Cx Dx E# Fx Gx Ax B#
+```
+
+## B# Menor Melódica
+ 
+### Paso 1
+  B -> 5 
+### Paso 2
+  B# -> 5 + 7 =  12 sostenidos
+### Paso 3
+  B# menor -> 12 - 3 = 9 -> 9(#)
+### Paso 4
+Vamos colocando los sostenidos en orden
+  * F -> B C D E F# G A B
+  * C -> B C# D E F# G A B
+  * G -> B C# D E F# G# A B
+  * D -> B C# D# E F# G# A B
+  * A -> B C# D# E F# G# A# B
+  * E -> B C# D# E# F# G# A# B
+  * B -> B# C# D# E# F# G# A# B#
+  
+Llevamos 7 bemoles pero nos quedan 2, asi que hacemos otra vuelta
+  * F -> B# C# D# E# F## G# A# B#
+  * C -> B# C## D# E# F## G# A# B#
+  
+Cambiamos los ## por x -> B# Cx D# E# Fx G# A# B#
+### Paso 5
+Como es escala menor melódica subimos a la 6ª y 7ª un semitono.
+  * 6º -> B# Cx D# E# Fx G## A# B#
+  * 7º -> B# Cx D# E# Fx G## A## B#
+  
+Cambiamos los ## por x -> B# Cx D# E# Fx Gx Ax B#
+```
+B# M.Melódica -> B# Cx D# E# Fx Gx Ax B#
 ```
