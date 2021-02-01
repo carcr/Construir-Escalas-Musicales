@@ -1,5 +1,20 @@
 # Construir-Escalas-Musicales
 
+## Funcionamiento - Ejemplo -> Do Mayor
+
+![inicio](https://user-images.githubusercontent.com/48949439/106479713-e8ed0f00-64aa-11eb-8cf3-157ba30a9838.PNG)
+### Escogemos de que queremos la escala (Do)
+![notaRaiz](https://user-images.githubusercontent.com/48949439/106479719-e985a580-64aa-11eb-88a1-9669ac4563f7.PNG)
+### Escogemos si queremos añadir una alteración (En este caso no)
+![alteracion](https://user-images.githubusercontent.com/48949439/106479709-e8547880-64aa-11eb-9859-6da9f161f130.PNG)
+### Escogemos el tipo de escala a construir (Mayor)
+![tipoDeEscala](https://user-images.githubusercontent.com/48949439/106479721-e985a580-64aa-11eb-9c15-4eec10fcd269.PNG)
+### Nos muestra la escala contruida
+![escalaCreada](https://user-images.githubusercontent.com/48949439/106479712-e8ed0f00-64aa-11eb-941d-6f2bb26e8099.PNG)
+
+
+
+
 ## LÓGICA
 
 ```
